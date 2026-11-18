@@ -1,4 +1,4 @@
-package com.ramya.shop.testexecutionservice;
+package com.ramya.shop.projectservice;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
